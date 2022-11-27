@@ -1,4 +1,5 @@
 ## My Kaggle Notebooks
+Visit my Kaggle profile: [https://www.kaggle.com/carlymichele](https://www.kaggle.com/carlymichele)
 
 ### List of Courses and Practicing Data Manipulation
 #### - In Progress
