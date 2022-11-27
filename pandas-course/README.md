@@ -1,5 +1,7 @@
 ## Pandas Course from [Kaggle](https://www.kaggle.com/learn/pandas)
 
+See my Kaggle profile [here](https://www.kaggle.com/carlymichele)
+
 ### My Saved Notebook Submissions
  - [Lesson 1](https://github.com/prototyyype/kaggle-practice/blob/main/pandas-course/exercise-creating-reading-and-writing.ipynb)
  - [Lesson 2](https://github.com/prototyyype/kaggle-practice/blob/main/pandas-course/exercise-indexing-selecting-assigning.ipynb)
