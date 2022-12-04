@@ -5,5 +5,5 @@ Visit my Kaggle profile: [https://www.kaggle.com/carlymichele](https://www.kaggl
 ### My Saved Notebook Submissions
  - [Lesson 4](https://github.com/prototyyype/kaggle-practice/blob/main/intro-to-ml/exercise-model-validation.ipynb)
  - [Lesson 5](https://github.com/prototyyype/kaggle-practice/blob/main/intro-to-ml/exercise-underfitting-and-overfitting.ipynb)
- - [Lesson 6]()
+ - [Lesson 6](https://github.com/prototyyype/kaggle-practice/blob/main/intro-to-ml/exercise-random-forests.ipynb)
  - [Lesson 7]()
