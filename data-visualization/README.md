@@ -7,7 +7,7 @@ Visit my Kaggle profile: [https://www.kaggle.com/carlymichele](https://www.kaggl
  - [Lesson 2](https://github.com/prototyyype/kaggle-practice/blob/main/data-visualization/exercise-line-charts.ipynbgi)
  - [Lesson 3](https://github.com/prototyyype/kaggle-practice/blob/main/data-visualization/exercise-bar-charts-and-heatmaps.ipynb)
  - [Lesson 4](https://github.com/prototyyype/kaggle-practice/blob/main/data-visualization/exercise-scatter-plots.ipynb)
- <!-- - [Lesson 5]()
- - [Lesson 6]()
+ - [Lesson 5](https://github.com/prototyyype/kaggle-practice/blob/main/data-visualization/exercise-distributions.ipynb)
+ <!-- - [Lesson 6]()
  - [Lesson 7]()
  - [Lesson 8]() -->
